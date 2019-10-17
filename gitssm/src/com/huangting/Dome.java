@@ -9,5 +9,6 @@ public class Dome {
     public static void main(String[] args) {
         System.out.print("git ideaui test update");
         System.out.print("沉醉不知归路");
+        System.out.print("常记溪亭日暮1");
     }
 }
