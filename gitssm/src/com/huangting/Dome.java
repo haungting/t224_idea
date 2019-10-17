@@ -8,5 +8,6 @@ package com.huangting;
 public class Dome {
     public static void main(String[] args) {
         System.out.print("git ideaui test update");
+        System.out.print("沉醉不知归路");
     }
 }
