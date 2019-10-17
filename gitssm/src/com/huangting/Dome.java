@@ -7,6 +7,6 @@ package com.huangting;
  */
 public class Dome {
     public static void main(String[] args) {
-        System.out.print("git ideaui test");
+        System.out.print("git ideaui test update");
     }
 }
